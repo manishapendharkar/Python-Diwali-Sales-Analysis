@@ -25,4 +25,4 @@ Key Findings :
 1. Which products or categories performed the best.
 2. Customer segments that generated the most revenue.
 3. Regional trends or preferences during the Diwali season.
-4. Impact of discounts and offers on sales performance.
+
